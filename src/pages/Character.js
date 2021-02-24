@@ -1,6 +1,5 @@
 import getHash from '../utils/getHash';
 import getData from '../utils/getData';
-ec408adb7c3e78c7507bf377a07f9b8e27c3d423
 
 const Character = async() => {
   const id = await getHash();
